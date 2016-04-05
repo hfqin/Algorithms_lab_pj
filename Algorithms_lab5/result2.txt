@@ -1,0 +1,9 @@
+              startEdge         |         endEdge
+step 0: cabbage goat wolf farmer       |     nothing
+step 1: cabbage wolf       |     goat farmer 
+step 2: cabbage wolf farmer       |     goat 
+step 3: wolf       |     cabbage goat farmer 
+step 4: goat wolf farmer       |     cabbage 
+step 5: goat       |     cabbage wolf farmer 
+step 6: goat farmer       |     cabbage wolf 
+step 7: nothing      |     cabbage goat wolf farmer 
